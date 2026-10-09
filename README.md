@@ -117,7 +117,7 @@ The program displays:
 
 ##  Author
 
-**Your Name**
+
 OULED LAID ZINEB
 Software Engineering Student
 
